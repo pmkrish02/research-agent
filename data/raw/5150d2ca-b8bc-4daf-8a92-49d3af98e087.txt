@@ -1,0 +1,1 @@
+Transformers are a neural network architecture introduced in 2017. They use self-attention mechanisms to process sequences in parallel. BERT and GPT are both transformer-based models. BERT is bidirectional while GPT is autoregressive. Large language models like GPT-4 have billions of parameters.

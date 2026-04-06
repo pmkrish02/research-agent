@@ -1,0 +1,1 @@
+Machine learning is a subset of artificial intelligence that enables systems to learn from data. Supervised learning uses labeled data. Unsupervised learning finds patterns in unlabeled data. Neural networks are inspired by biological neurons and consist of layers that transform input data.

@@ -1,0 +1,54 @@
+Since the source text provided was a placeholder, I have structured this wiki article based on the standard academic and technical definitions of the subjects mentioned. 
+
+---
+
+# Wiki: Machine Learning and Neural Networks
+
+## Overview
+**Machine Learning (ML)** is a subset of Artificial Intelligence (AI) focused on building systems that learn from data to improve performance on specific tasks without being explicitly programmed. **Neural Networks** are a specific class of machine learning models inspired by the structure of the human brain, designed to recognize patterns and solve complex problems.
+
+---
+
+## 1. Machine Learning (ML)
+### Definition
+Machine Learning is the study of computer algorithms that improve automatically through experience. It relies on mathematical models to identify patterns within large datasets.
+
+### Key Concepts
+*   **Supervised Learning:** The model is trained on labeled data (input-output pairs).
+*   **Unsupervised Learning:** The model finds hidden patterns or structures in unlabeled data.
+*   **Reinforcement Learning:** The model learns by interacting with an environment to maximize a reward signal.
+
+---
+
+## 2. Neural Networks
+### Definition
+A Neural Network (or Artificial Neural Network) is a computational model consisting of layers of interconnected "neurons" (nodes). It is the foundational technology behind **Deep Learning**.
+
+### Structural Components
+*   **Input Layer:** Receives the raw data or features.
+*   **Hidden Layers:** Intermediate layers where the mathematical transformation and "feature extraction" occur.
+*   **Output Layer:** Provides the final prediction or classification.
+*   **Weights & Biases:** The internal parameters that the network adjusts during training to minimize error.
+
+---
+
+## 3. Relationships & Interconnectivity
+The relationship between these fields can be summarized as follows:
+
+*   **Hierarchy:** Artificial Intelligence > Machine Learning > Deep Learning (Neural Networks).
+*   **Training Loop:** 
+    1.  **Forward Propagation:** Data flows through the network to generate a prediction.
+    2.  **Loss Function:** A metric used to calculate the distance between the prediction and the actual target.
+    3.  **Backpropagation:** An algorithm used to adjust the weights of the network to reduce the loss in the next iteration.
+
+---
+
+## 4. Glossary
+*   **Feature:** An individual measurable property or characteristic of a phenomenon being observed.
+*   **Model:** The specific mathematical representation of a system that has been "trained" on data.
+*   **Training Data:** The dataset used to teach the model how to make predictions.
+*   **Inference:** The process of using a trained model to make predictions on new, unseen data.
+
+---
+
+*This article is a structural template. To expand this, please provide the specific raw notes or data points you would like included.*

@@ -1,0 +1,30 @@
+# Transformer (Machine Learning Architecture)
+
+## Overview
+The **Transformer** is a foundational neural network architecture introduced in 2017 that revolutionized the field of Natural Language Processing (NLP). Unlike previous architectures that processed data sequentially (such as RNNs), Transformers enable the processing of entire sequences of data in parallel, significantly improving training efficiency and performance.
+
+## Key Concepts
+
+### 1. Self-Attention Mechanism
+The core innovation of the Transformer is the **self-attention mechanism**. This allows the model to weigh the importance of different words in a sequence relative to one another, regardless of their distance. By calculating these relationships, the model captures context more effectively than traditional sequential models.
+
+### 2. Parallel Processing
+Because Transformers do not rely on a hidden state that carries over from word to word, they can process input sequences simultaneously. This architectural shift allows for the training of massive models on significantly larger datasets compared to predecessor architectures.
+
+## Notable Transformer-Based Models
+
+| Model | Type | Architecture Characteristic |
+| :--- | :--- | :--- |
+| **BERT** | Encoder-only | **Bidirectional**: Processes text in both directions simultaneously to understand context. |
+| **GPT** | Decoder-only | **Autoregressive**: Predicts the next token in a sequence based on previous tokens. |
+
+*   **Large Language Models (LLMs):** Modern iterations, such as **GPT-4**, are built upon the Transformer architecture and are characterized by having billions of parameters, which allow them to exhibit complex reasoning and generative capabilities.
+
+## Relationships
+*   **Architecture vs. Model:** The Transformer is the underlying **architecture** (the blueprint), while models like BERT and GPT are **implementations** built upon that architecture.
+*   **Sequence Processing:** The shift from sequential processing to **parallel processing** via self-attention is the primary differentiator between Transformers and older architectures.
+*   **Scaling:** The architectural efficiency of Transformers directly enables the development of **Large Language Models**; the massive parameter counts in models like GPT-4 are a result of this scalable design.
+
+***
+
+*See also: [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing), [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network), [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)*

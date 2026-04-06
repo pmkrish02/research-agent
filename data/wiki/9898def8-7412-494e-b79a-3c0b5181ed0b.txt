@@ -1,0 +1,37 @@
+# Wiki: Machine Learning
+
+**Machine Learning (ML)** is a specialized subfield of **Artificial Intelligence (AI)** focused on the development of systems capable of learning from data rather than relying solely on explicit programming.
+
+---
+
+## Core Concepts
+
+### 1. Learning Paradigms
+Machine learning systems are generally categorized by how they process data to derive insights:
+
+*   **Supervised Learning:** A paradigm that utilizes **labeled data** to train models. The system learns to map inputs to specific, known outputs by being provided with the correct answers during the training process.
+*   **Unsupervised Learning:** A paradigm that operates on **unlabeled data**. The system attempts to identify inherent structures, groupings, or patterns within the data without prior guidance or pre-defined labels.
+
+### 2. Neural Networks
+**Neural Networks** are a class of computational models inspired by the structure and function of biological neurons. They are fundamental to modern deep learning and operate through a layered architecture:
+
+*   **Structure:** Composed of multiple layers of interconnected nodes (neurons).
+*   **Function:** Input data passes through these layers, undergoing a series of transformations that extract increasingly complex features to generate an output.
+
+---
+
+## Relationships and Hierarchy
+
+| Component | Relationship |
+| :--- | :--- |
+| **Artificial Intelligence** | The parent domain; the broad field of intelligent systems. |
+| **Machine Learning** | A subset of AI; the methodology of learning from data. |
+| **Learning Paradigms** | The specific methodologies (Supervised vs. Unsupervised) used to implement ML. |
+| **Neural Networks** | A sophisticated architecture used to implement ML models, often utilized within both supervised and unsupervised frameworks. |
+
+---
+
+## See Also
+*   *Artificial Intelligence*
+*   *Data Science*
+*   *Deep Learning*
